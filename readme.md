@@ -3,7 +3,7 @@ This is Application Chatbot Healthy for anyone, Devep By Betime Solution Develop
 config
     - config.yalm (save all config about embedding or path for data)
 
-explanation each folder 
+explain each folder 
 
     - config : นี่คือโฟลเดอร์ที่เก็บไฟล์ config ที่ set ค่า paramiter ต่างๆที่ใช่ใน หลายๆที่ใน code หากต้องการเปลี่ยนแปลงค่าบางอย่าง ก็สามารถมาเปลี่ยนที่นี่ได้เลย
     - data :
